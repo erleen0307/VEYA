@@ -92,21 +92,21 @@ The AI layer is designed to support self-awareness and informed decision-making,
 
 # 📸 Screenshots
 
-## Dashboard
+## Dashboard - Today's Journal
 
-![Dashboard](./assets/dashboard.png)
+![Dashboard](./assets/today-log.png)
 
-## Cycle Journal
+## Cycle Rhythm 
 
-![Cycle Journal](./assets/cycle-journal.png)
+![Cycle Rhythm](./assets/cycle-rhythm.png)
 
 ## AI Insights
 
 ![AI Insights](./assets/ai-insights.png)
 
-## Personalized VEYA AI Chatbot
+## Educational Insights
 
-![Chatbot](./assets/chatbot.png)
+![Educational Advice](./assets/learn-library.png)
 
 ---
 
