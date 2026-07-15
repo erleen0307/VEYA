@@ -1,0 +1,6 @@
+{
+  "name": "VEYA",
+  "description": "An AI-powered menstrual and hormonal wellness companion designed for premium tracking, pattern recognition, and supportive insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
